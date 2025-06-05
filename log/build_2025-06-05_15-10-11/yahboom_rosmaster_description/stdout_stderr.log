@@ -1,0 +1,63 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found urdf_tutorial: 1.1.0 (/opt/ros/humble/share/urdf_tutorial/cmake)
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ejaz/mobile_ws/build/yahboom_rosmaster_description
+-- Install configuration: ""
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/intel_realsense
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/intel_realsense/visual
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/intel_realsense/visual/d435.stl
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/front_left_wheel_X3.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/base_link_X3.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/front_right_wheel_X3.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/back_right_wheel_X3.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/laser_link.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/camera_link.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rosmaster_x3/visual/back_left_wheel_X3.STL
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rplidar
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/meshes/rplidar/rplidar_s2.stl
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/mech
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/mech/mecanum_wheel.urdf.xacro
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/mech/rosmaster_x3_base.urdf.xacro
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/robots
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/robots/rosmaster_x3.urdf.xacro
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/control
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/sensors
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/sensors/lidar.urdf.xacro
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/sensors/rgbd_camera.urdf.xacro
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/urdf/sensors/imu.urdf.xacro
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/ament_index/resource_index/package_run_dependencies/yahboom_rosmaster_description
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/ament_index/resource_index/parent_prefix_path/yahboom_rosmaster_description
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/environment/ament_prefix_path.sh
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/environment/ament_prefix_path.dsv
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/environment/path.sh
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/environment/path.dsv
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/local_setup.bash
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/local_setup.sh
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/local_setup.zsh
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/local_setup.dsv
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/package.dsv
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/ament_index/resource_index/packages/yahboom_rosmaster_description
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/cmake/yahboom_rosmaster_descriptionConfig.cmake
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/cmake/yahboom_rosmaster_descriptionConfig-version.cmake
+-- Installing: /home/ejaz/mobile_ws/install/yahboom_rosmaster_description/share/yahboom_rosmaster_description/package.xml
