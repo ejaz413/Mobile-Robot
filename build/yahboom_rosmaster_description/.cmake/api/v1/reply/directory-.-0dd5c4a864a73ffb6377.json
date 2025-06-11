@@ -229,8 +229,10 @@
 			"destination" : "share/yahboom_rosmaster_description",
 			"paths" : 
 			[
+				"launch",
 				"meshes",
-				"urdf"
+				"urdf",
+				"rviz"
 			],
 			"type" : "directory"
 		},

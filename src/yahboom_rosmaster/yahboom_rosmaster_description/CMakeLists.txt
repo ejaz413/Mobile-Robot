@@ -10,7 +10,7 @@ find_package(ament_cmake REQUIRED)
 find_package(urdf_tutorial REQUIRED)
 
 install (
-  DIRECTORY meshes urdf
+  DIRECTORY launch meshes urdf rviz
   DESTINATION share/${PROJECT_NAME}
 )
 if(BUILD_TESTING)

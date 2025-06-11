@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-9f251431b2cb2c38e649.json",
+					"jsonFile" : "directory-.-71e4ff57abf3eb8a5eed.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -29,7 +29,7 @@
 					[
 						0
 					],
-					"name" : "yahboom_rosmaster_description",
+					"name" : "yahboom_rosmaster",
 					"targetIndexes" : 
 					[
 						0,
@@ -42,15 +42,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uninstall-f92e28601b47a12fb91e.json",
+					"jsonFile" : "target-uninstall-8cee88b095c15236a5d4.json",
 					"name" : "uninstall",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "yahboom_rosmaster_description_uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-yahboom_rosmaster_description_uninstall-09ca8644872e05730af6.json",
-					"name" : "yahboom_rosmaster_description_uninstall",
+					"id" : "yahboom_rosmaster_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yahboom_rosmaster_uninstall-9d0c32775ecd191510a5.json",
+					"name" : "yahboom_rosmaster_uninstall",
 					"projectIndex" : 0
 				}
 			]
@@ -59,8 +59,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/ejaz/mobile_ws/build/yahboom_rosmaster_description",
-		"source" : "/home/ejaz/mobile_ws/src/yahboom_rosmaster/yahboom_rosmaster_description"
+		"build" : "/home/ejaz/mobile_ws/build/yahboom_rosmaster",
+		"source" : "/home/ejaz/mobile_ws/src/yahboom_rosmaster/yahboom_rosmaster"
 	},
 	"version" : 
 	{

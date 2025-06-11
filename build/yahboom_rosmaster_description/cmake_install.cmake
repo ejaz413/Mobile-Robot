@@ -44,8 +44,10 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/yahboom_rosmaster_description" TYPE DIRECTORY FILES
+    "/home/ejaz/mobile_ws/src/yahboom_rosmaster/yahboom_rosmaster_description/launch"
     "/home/ejaz/mobile_ws/src/yahboom_rosmaster/yahboom_rosmaster_description/meshes"
     "/home/ejaz/mobile_ws/src/yahboom_rosmaster/yahboom_rosmaster_description/urdf"
+    "/home/ejaz/mobile_ws/src/yahboom_rosmaster/yahboom_rosmaster_description/rviz"
     )
 endif()
 

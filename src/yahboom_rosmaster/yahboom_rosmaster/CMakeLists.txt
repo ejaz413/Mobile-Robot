@@ -8,6 +8,7 @@ endif()
 # find dependencies
 find_package(ament_cmake REQUIRED)
 
+# Copy necessary files to designated locations in the project
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
